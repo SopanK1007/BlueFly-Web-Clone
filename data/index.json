@@ -1,0 +1,275 @@
+{
+    "threeimages": [
+      {
+        "id": 1,
+        "imgUrl": "https://cdn.shopify.com/s/files/1/0248/3473/6191/files/asapimage---533-x-644-px_540x.jpg?v=1650550832",
+        "title": "DRESSES FOR EVERY OCCASION",
+        "desc": "UP TO 94% OFF",
+        "feature": "Featuring BCBGMaxazria, Halston, Kay Unger & More",
+        "btnText": "SHOP DRESSES"
+      },
+      {
+        "id": 2,
+        "imgUrl": "https://cdn.shopify.com/s/files/1/0248/3473/6191/files/WEB_ASSET_2_540x.jpg?v=1650894933",
+        "title": "DESIGNER BOUTIQUE",
+        "desc": "UP TO 84% OFF",
+        "feature": "Best-Selling Styles from: Gucci, Valentino, Balenciaga, Stuart Weitzman & More",
+        "btnText": "SHOP DESIGNER BOUTIQUE"
+      },
+      {
+        "id": 3,
+        "imgUrl": "https://cdn.shopify.com/s/files/1/0248/3473/6191/files/womens_tops_2_720x.jpg?v=1630508297",
+        "title": "TRENDING TOPS FOR THE NEW SEASON",
+        "desc": "UP TO 80% OFF",
+        "feature": "Featuring Gracia, Theory, Trina Turk & More",
+        "btnText": "SHOP WOMEN'S TOPs"
+      }
+    ],
+  
+    "shopByCategory": [
+      {
+        "id": 1,
+        "title": "DRESSES",
+        "imgUrl": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/eLrXA7xq385xIpgrAEjxjEN2KdUmpwXd-25_360x.jpg?v=1670226175"
+      },
+      {
+        "id": 2,
+        "title": "PUMP & HEELS",
+        "imgUrl": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/1313488068_RLLZ_1_360x.jpg?v=1669496488"
+      },
+      {
+        "id": 3,
+        "title": "HANDBAGS",
+        "imgUrl": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/507185-w8187-1000__1_360x.jpg?v=1670075629"
+      },
+      {
+        "id": 4,
+        "title": "SUNGLASSES",
+        "imgUrl": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/gg0595s-30008116-009__1_360x.jpg?v=1670014525"
+      },
+      {
+        "id": 5,
+        "title": "WOMEN'S SNEAKERS",
+        "imgUrl": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/491514-w1eb7-1053__1_7da75db0-cf55-45ac-81c3-4826aabe8f99_360x.jpg?v=1670388200"
+      },
+      {
+        "id": 6,
+        "title": "MEN'S SNEAKERS",
+        "imgUrl": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/72xb3se2-zs320-z24__2_large.jpg?v=1669985478"
+      },
+      {
+        "id": 7,
+        "title": "MEN'S T-SHIRTS",
+        "imgUrl": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/4563125__1_360x.jpg?v=1670285458"
+      },
+      {
+        "id": 8,
+        "title": "WOMEN'S TOP",
+        "imgUrl": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/4292664_360x.jpg?v=1658442683"
+      },
+      {
+        "id": 9,
+        "title": "WOMEN'S DENIM",
+        "imgUrl": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/1411308242_RLLZ_1_360x.jpg?v=1669372795"
+      },
+      {
+        "id": 10,
+        "title": "JEWELRY",
+        "imgUrl": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/6030308040_RLLZ_1_8ceffe94-6261-4fe9-95bf-65231fd65e63_360x.jpg?v=1657067713"
+      }
+    ],
+  
+    "newArrivals": [
+      {
+        "id": 1,
+        "img1": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/1411483981_RLLZ_1_720x.jpg?v=1669948020",
+        "avatar": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/1411483981_RLLZ_1_720x.jpg?v=1669948020",
+        "img2": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/1411483981_RLLZ_2_360x.jpg?v=1669948021",
+        "img3": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/lafayette_womens_apparel120_7b180232-6c86-4ebc-adda-c6e1d2131675_360x.png?v=1669948023",
+        "manufacturer": "LAFAYETTE 148 NEW YORK",
+        "title": "LAFAYETTE 148 NEW YORK PAM WOOL-BLEND TOPPER",
+        "strPrice": "$1,498.00",
+        "price": "$543.99",
+        "discount": "Save 64%"
+      },
+      {
+        "id": 2,
+        "img1": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/1161502168_RLLZ_1_360x.jpg?v=1669947781",
+        "avatar": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/1161502168_RLLZ_1_360x.jpg?v=1669947781",
+        "img2": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/1161502168_RLLZ_2_360x.jpg?v=1669947782",
+        "img3": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/1161502168_RLLZ_3_360x.jpg?v=1669947784",
+        "manufacturer": "FENDI",
+        "title": "FENDI SUNSHINE MINI LEATHER TOTE",
+        "strPrice": "$1,750.00",
+        "price": "$1,395.99",
+        "discount": "Save 20%"
+      },
+      {
+        "id": 3,
+        "img1": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/1313495944_RLLZ_1_360x.jpg?v=1669947520",
+        "avatar": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/1313495944_RLLZ_1_360x.jpg?v=1669947520",
+        "img2": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/1313495944_RLLZ_2_360x.jpg?v=1669947521",
+        "img3": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/1313495944_RLLZ_3_360x.jpg?v=1669947523",
+        "manufacturer": "SOPHIA WEBSTER",
+        "title": "SOPHIA WEBSTER DELICIA MARABOU LEATHER PUMP",
+        "strPrice": "",
+        "price": "$624.99",
+        "discount": ""
+      },
+      {
+        "id": 4,
+        "img1": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/1313496248_RLLZ_1_360x.jpg?v=1669947279",
+        "avatar": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/1313496248_RLLZ_1_360x.jpg?v=1669947279",
+        "img2": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/1313496248_RLLZ_2_360x.jpg?v=1669947280",
+        "img3": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/1313496248_RLLZ_3_360x.jpg?v=1669947281",
+        "manufacturer": "SALVATORE FERRAGAMO",
+        "title": "SALVATORE FERRAGAMO VIVA SIZED LEATHER BELT",
+        "strPrice": "$695.00",
+        "price": "$524.99",
+        "discount": "Save 24%"
+      },
+      {
+        "id": 5,
+        "img1": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/1411495982_RLLZ_1_360x.jpg?v=1669948004",
+        "avatar": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/1411495982_RLLZ_1_360x.jpg?v=1669948004",
+        "img2": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/1411495982_RLLZ_2_360x.jpg?v=1669948006",
+        "img3": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/1411495982_RLLZ_3_360x.jpg?v=1669948007",
+        "manufacturer": "HERNO",
+        "title": "HERNO PADDED ZIP FASTENING WOOL & CASHMERE-BLEND JACKET",
+        "strPrice": "$925.00",
+        "price": "$683.99",
+        "discount": "Save 26%"
+      }
+    ],
+  
+    "trendingNow": [
+      {
+        "id": 1,
+        "img1": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/1044770_9a3e0b24-b5a0-44fa-99ef-9dcbb055fc56_1800x1800.jpg?v=1633855402",
+        "avatar": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/1044770_9a3e0b24-b5a0-44fa-99ef-9dcbb055fc56_1800x1800.jpg?v=1633855402",
+        "img2": "",
+        "img3": "",
+        "manufacturer": "BALENCIAGA",
+        "title": "BALENCIAGA HANDBAGS CITY WOMEN LEATHER RED",
+        "strPrice": "$1,770.00",
+        "price": "$1,118.58",
+        "discount": "Save 37%"
+      },
+      {
+        "id": 2,
+        "img1": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/1070510_1800x1800.jpg?v=1633732658",
+        "avatar": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/1070510_1800x1800.jpg?v=1633732658",
+        "img2": "",
+        "img3": "",
+        "manufacturer": "GIVENCHY",
+        "title": "GIVENCHY ANKLE BOOTS BOTTE SHOW WOMEN LEATHER BLACK",
+        "strPrice": "$1,473.00",
+        "price": "$640.67",
+        "discount": "Save 57%"
+      },
+      {
+        "id": 3,
+        "img1": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/1035747_1800x1800.jpg?v=1635150228",
+        "avatar": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/1035747_1800x1800.jpg?v=1635150228",
+        "img2": "",
+        "img3": "",
+        "manufacturer": "SAINT LAURENT",
+        "title": "SAINT LAURENT BACKPACK AND BUMBAGS MEN FABRIC BLACK",
+        "strPrice": "$742.00",
+        "price": "$581.22",
+        "discount": "Save 22%"
+      },
+      {
+        "id": 4,
+        "img1": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/1044778_00342bb3-8266-4f15-9fd2-2e926bc821f2_1800x1800.jpg?v=1633855404",
+        "avatar": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/1044778_00342bb3-8266-4f15-9fd2-2e926bc821f2_1800x1800.jpg?v=1633855404",
+        "img2": "",
+        "img3": "",
+        "manufacturer": "BALENCIAGA",
+        "title": "BALENCIAGA HANDBAGS CITY WOMEN LEATHER GRAY",
+        "strPrice": "$1,999.00",
+        "price": "$1,257.10",
+        "discount": "Save 37%"
+      },
+      {
+        "id": 5,
+        "img1": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/tb8040rose-11_b26d5a1c-9f7e-45b8-ae93-8f8f17aeb59f_360x.jpg?v=1634340453",
+        "avatar": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/tb8040rose-11_b26d5a1c-9f7e-45b8-ae93-8f8f17aeb59f_720x.jpg?v=1634340453",
+        "img2": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/4ctrosebracelet_6a7cee7c-1a9b-4bc9-9a48-16c26d9c9ee7_720x.jpg?v=1634340454",
+        "img3": "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/bl6112-1_663068ed-09b1-47e6-9192-c4be5e770299_720x.jpg?v=1634340456",
+        "manufacturer": "POMPEII3",
+        "title": "4CT DIAMOND TENNIS BRACELET IN 14K WHITE YELLOW OR ROSE GOLD 7",
+        "strPrice": "$6,995.00",
+        "price": "$1,699.99",
+        "discount": "Save 76%"
+      }
+    ],
+  
+    "slideLeftRightImages": [
+      {
+        "id": 1,
+        "imgUrl": "https://media.tagembed.com/post/46588/57802/87415/17856298007811326.png",
+        "desc": "WOMEN'S TOPS & TEES 👚 UP TO 80% OFF!! Featuring: @prada, @johnnywas, @burberry, @vince & More https://www.bluefly.com/collections/women-clothing-tops"
+      },
+      {
+        "id": 2,
+        "imgUrl": "https://media.tagembed.com/post/46588/57802/87415/18209720614166158.png",
+        "desc": "Handbags For You 💖 UP TO 70% OFF!! Featuring: @gucci, @ysl, @maisonvalentino, @balenciaga & More https://www.bluefly.com/collections/women-handbags"
+      },
+      {
+        "id": 3,
+        "imgUrl": "https://media.tagembed.com/post/46588/57802/87415/17956703651056155.png",
+        "desc": "Shop Women's Pumps & Heels 👠 SAVE UP TO 80% OFF!! Featuring: @ysl, @maisonvalentino, @gianvitorossi, @louboutinworld & More https://www.bluefly.com/collections/women-shoes-sandals"
+      },
+      {
+        "id": 4,
+        "imgUrl": "https://media.tagembed.com/post/46588/57802/87415/17974270546706060.png",
+        "desc": "SHOP BURBERRY 💕 SAVE UP TO 60% OFF!! #burberry #burberrylondon #burberrybag #burberryshoes https://www.bluefly.com/collections/brand-burberry"
+      },
+      {
+        "id": 5,
+        "imgUrl": "https://media.tagembed.com/post/46588/57802/87415/17949036497178788.png",
+        "desc": "SHOP DIOR 💫 UP TO 50% OFF!! #dior #diorbag #diorshoes #diorsunglasses https://www.bluefly.com/collections/brand-dior"
+      },
+      {
+        "id": 6,
+        "imgUrl": "https://media.tagembed.com/post/46588/57802/87415/18016747261432018.png",
+        "desc": "SHOP WOMEN'S SNEAKERS 👟 SAVE UP TO 80% OFF!! Featuring: @alexandermcqueen, @veja, @burberry, @balenciaga & More https://www.bluefly.com/collections/women-shoes-sneakers"
+      },
+      {
+        "id": 7,
+        "imgUrl": "https://media.tagembed.com/post/46588/57802/87415/17962206955857540.png",
+        "desc": "SHOP DRESSES 👗 SAVE UP TO 90% OFF!! Featuring: @gucci, @samantha.sung, @adriannapapell, @maisonvalentino & More https://www.bluefly.com/collections/women-clothing-dresses"
+      },
+      {
+        "id": 8,
+        "imgUrl": "https://media.tagembed.com/post/46588/57802/87415/17977743247647259.png",
+        "desc": "SHOP SAINT LAURENT ✨ SAVE UP TO 70% OFF!! #saintlaurent #saintlaurentbag #saintlaurentshoes https://www.bluefly.com/collections/brand-saint-laurent"
+      }
+    ],
+  
+    "bottomThreeImages": [
+      {
+        "id": 1,
+        "imgUrl": "https://cdn.shopify.com/s/files/1/0248/3473/6191/files/denim_1296x.jpg?v=1615204984%201296w%201238h",
+        "title": "UPTO 85% OFF THE DENIM SHOP FOR HIM & HER",
+        "desc": "From Hudson Jeans, Joe's Jeans, J Brand & More",
+        "btnText": "SHOP DENIM"
+      },
+      {
+        "id": 2,
+        "imgUrl": "https://cdn.shopify.com/s/files/1/0248/3473/6191/files/shutterstock_1112754335--RESIZED2_360x.jpg?v=1656342120%20360w%20240h,",
+        "title": "UPTO 80% OFF LIGHTWEIGHT JACKETS & COATS",
+        "desc": "Must-Haves From Cole Haan, Burberry, & More",
+        "btnText": "SHOP OUTERWOMEN"
+      },
+      {
+        "id": 3,
+        "imgUrl": "  //cdn.shopify.com/s/files/1/0248/3473/6191/files/shutterstock_210297940-resized_for_viewing_1080x.jpg?v=1656342603 1080w 721h,",
+        "title": "UPTO 90% OFF WOMEN'S MUST-HAVE ACCESSORIES",
+        "desc": "Shop Wallets, Belts, Hats, Sunglasses & More",
+        "btnText": "SHOP WOMEN'S ACCESSORIES"
+      }
+    ]
+  }
+  
