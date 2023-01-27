@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&family=Nunito:ital,wght@0,200;0,300;0,400;1,200;1,300;1,500&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.render_product {
+  /* border: 1px solid red; */
+  width: 100%;
+  padding: 20px;
+  display: flex;
+}
+.render_product .div1 {
+  display: flex;
+  width: 65%;
+  /* border: 1px solid red; */
+}
+.render_product .div2 {
+  width: 20%;
+  /* border: 1px solid red; */
+}
+.render_product .div2 .div21 {
+  max-width: 100px;
+  max-height: 125px;
+  margin: auto;
+  margin-bottom: 15px;
+  border: 1px solid rgb(134, 134, 134);
+}
+.render_product .div2 img {
+  width: 100%;
+  height: 100%;
+  /* border: 1px solid red; */
+}
+.render_product .div3 {
+  width: 80%;
+  /* border: 1px solid red; */
+}
+.render_product .div4 {
+  border: 1px solid red;
+  width: 35%;
+  padding-left: 10px;
+}
+.render_product .div4 h5,
+.render_product .div4 h3 {
+  font-family: "Playfair Display", serif;
+  font-weight: bolder;
+  font-size: 20px;
+}
+.render_product .div4 h3 {
+  width: 90%;
+  font-size: 30px;
+  margin-top: -10px;
+}
